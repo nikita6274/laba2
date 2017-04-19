@@ -1,0 +1,9 @@
+D:\Универ\4 семестр\ООП\Лабораторная 1-2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Универ\4 семестр\ООП\Лабораторная 1-2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Универ\4 семестр\ООП\Лабораторная 1-2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Универ\4 семестр\ООП\Лабораторная 1-2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Универ\4 семестр\ООП\Лабораторная 1-2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Универ\4 семестр\ООП\Лабораторная 1-2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Универ\4 семестр\ООП\Лабораторная 1-2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Универ\4 семестр\ООП\Лабораторная 1-2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainForm.resources
+D:\Универ\4 семестр\ООП\Лабораторная 1-2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache

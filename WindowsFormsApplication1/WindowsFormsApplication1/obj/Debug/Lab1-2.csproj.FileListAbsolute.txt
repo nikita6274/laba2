@@ -1,0 +1,45 @@
+D:\Универ\4 семестр\ООП\Лабораторная 1-2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Lab1-2.csprojResolveAssemblyReference.cache
+D:\Универ\4 семестр\ООП\Лабораторная 1-2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainForm.resources
+D:\Универ\4 семестр\ООП\Лабораторная 1-2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Универ\4 семестр\ООП\Лабораторная 1-2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Lab1-2.csproj.GenerateResource.Cache
+D:\Универ\4 семестр\ООП\Лабораторная 1-2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Универ\4 семестр\ООП\Лабораторная 1-2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Универ\4 семестр\ООП\Лабораторная 1-2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Универ\4 семестр\ООП\Лабораторная 1-2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Универ\4 семестр\ООП\Лабораторная 1-2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\User\Desktop\Лабораторная 1-2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\User\Desktop\Лабораторная 1-2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\User\Desktop\Лабораторная 1-2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\User\Desktop\Лабораторная 1-2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\User\Desktop\Лабораторная 1-2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\User\Desktop\Лабораторная 1-2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Lab1-2.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Лабораторная 1-2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainForm.resources
+C:\Users\User\Desktop\Лабораторная 1-2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\User\Desktop\Лабораторная 1-2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Lab1-2.csproj.GenerateResource.Cache
+C:\Users\Никита\Desktop\Лабораторная 1-2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Никита\Desktop\Лабораторная 1-2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Никита\Desktop\Лабораторная 1-2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Никита\Desktop\Лабораторная 1-2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Никита\Desktop\Лабораторная 1-2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Никита\Desktop\Лабораторная 1-2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Lab1-2.csprojResolveAssemblyReference.cache
+C:\Users\Никита\Desktop\Лабораторная 1-2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainForm.resources
+C:\Users\Никита\Desktop\Лабораторная 1-2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Никита\Desktop\Лабораторная 1-2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Lab1-2.csproj.GenerateResource.Cache
+C:\ubuntu1\Лабораторная 1-2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\ubuntu1\Лабораторная 1-2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\ubuntu1\Лабораторная 1-2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\ubuntu1\Лабораторная 1-2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\ubuntu1\Лабораторная 1-2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\ubuntu1\Лабораторная 1-2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Lab1-2.csprojResolveAssemblyReference.cache
+C:\ubuntu1\Лабораторная 1-2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainForm.resources
+C:\ubuntu1\Лабораторная 1-2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\ubuntu1\Лабораторная 1-2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Lab1-2.csproj.GenerateResource.Cache
+C:\Users\Никита\Documents\Visual Studio 2012\Projects\Лабораторная 1-2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Никита\Documents\Visual Studio 2012\Projects\Лабораторная 1-2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Никита\Documents\Visual Studio 2012\Projects\Лабораторная 1-2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Никита\Documents\Visual Studio 2012\Projects\Лабораторная 1-2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Lab1-2.csprojResolveAssemblyReference.cache
+C:\Users\Никита\Documents\Visual Studio 2012\Projects\Лабораторная 1-2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainForm.resources
+C:\Users\Никита\Documents\Visual Studio 2012\Projects\Лабораторная 1-2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Никита\Documents\Visual Studio 2012\Projects\Лабораторная 1-2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Lab1-2.csproj.GenerateResource.Cache
+C:\Users\Никита\Documents\Visual Studio 2012\Projects\Лабораторная 1-2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Никита\Documents\Visual Studio 2012\Projects\Лабораторная 1-2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
